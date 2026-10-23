@@ -228,6 +228,7 @@ Tools that help AI organize information visually.
 # ✍️ Content & Publishing
 
 - **[Contentful MCP](https://github.com/ivo-toby/contentful-mcp)** — Manage Contentful content through AI.
+- **[deed.page MCP](https://deed.page/docs)** — Publish HTML or static files to a live `<slug>.deed.page` URL through a remote MCP server at `https://deed.page/mcp`, with no signup on the free plan.
 - **[DevHub MCP](https://github.com/devhub/devhub-cms-mcp)** — Manage website and CMS content.
 - **[Kontent.ai MCP](https://github.com/kontent-ai/mcp-server)** — Create and manage CMS content.
 - **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** — Compose and edit videos through MCP using editable plan.json timelines, with optional provider-backed generation.
